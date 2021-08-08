@@ -1,18 +1,27 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <div class="btn-create">
+      <router-link to="/create">
+        <el-button icon="el-icon-plus" type="primary"
+          >Create Employee</el-button
+        >
+      </router-link>
+    </div>
+    <EmployeeList />
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
+import EmployeeList from "@/components/EmployeeList.vue";
 export default {
   name: "Home",
-  components: {
-    HelloWorld,
-  },
+  components: { EmployeeList },
 };
 </script>
+
+<style scoped>
+.btn-create {
+  display: flex;
+  justify-content: flex-end;
+}
+</style>

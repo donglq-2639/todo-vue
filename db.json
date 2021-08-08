@@ -1,0 +1,328 @@
+{
+  "employees": [
+    {
+      "name": "dfgdfg",
+      "company": "sun",
+      "startDate": "2021/07/28",
+      "branch": "Sun Asterisk Da Nang",
+      "active": true,
+      "preferences": [
+        "Swimming",
+        "Ping pong"
+      ],
+      "gender": "Fe-Male",
+      "remark": " fdgdfgdfg",
+      "id": 9
+    },
+    {
+      "name": "sdfsdf",
+      "company": "sun",
+      "startDate": "2021/08/19",
+      "branch": "Sun Asterisk Da Nang",
+      "active": true,
+      "preferences": [
+        "Swimming"
+      ],
+      "gender": "Male",
+      "remark": "sdfsdf",
+      "id": 10
+    },
+    {
+      "name": "asdasdasdasdas",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/19",
+      "branch": "Sun Asterisk Da Nang",
+      "active": false,
+      "preferences": [
+        "Swimming",
+        "Esports",
+        "Drink Beer"
+      ],
+      "gender": "Fe-Male",
+      "remark": "asdasd",
+      "id": 15
+    },
+    {
+      "name": "asdasd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/20",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Swimming, Volleyball, Tennis"
+      ],
+      "gender": "Fe-Male",
+      "remark": "dong",
+      "id": 16
+    },
+    {
+      "name": "xcvxcvxcv",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/18",
+      "branch": "Sun Asterisk Ho Chi Minh",
+      "active": false,
+      "preferences": [
+        "Volleyball",
+        "Esports"
+      ],
+      "gender": "Male",
+      "remark": "xcv",
+      "id": 17
+    },
+    {
+      "name": "cvbvcbcvbcvbcv",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/19",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": false,
+      "preferences": [],
+      "gender": "Fe-Male",
+      "remark": "cvbvcbcvb",
+      "id": 18
+    },
+    {
+      "name": "asd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/10",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": false,
+      "preferences": [
+        "Swimming",
+        "Drink Beer"
+      ],
+      "gender": "Fe-Male",
+      "remark": "asd",
+      "id": 19
+    },
+    {
+      "name": "aasd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/10",
+      "branch": "Sun Asterisk Ho Chi Minh",
+      "active": true,
+      "preferences": [
+        "Volleyball",
+        "Esports"
+      ],
+      "gender": "Male",
+      "remark": "",
+      "id": 20
+    },
+    {
+      "name": "asd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/19",
+      "branch": "Sun Asterisk Ho Chi Minh",
+      "active": false,
+      "preferences": [
+        "Esports",
+        "Swimming"
+      ],
+      "gender": "Male",
+      "remark": "",
+      "id": 21
+    },
+    {
+      "name": " cvbcvbvcbcvb",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/31",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Esports",
+        "Ping pong"
+      ],
+      "gender": "Fe-Male",
+      "remark": "cvbcvb",
+      "id": 22
+    },
+    {
+      "name": "dfgdfgdfgdfg",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/17",
+      "branch": "Sun Asterisk Da Nang",
+      "active": true,
+      "preferences": [
+        "Volleyball",
+        "Drink Beer",
+        "Ping pong",
+        "Swimming",
+        "Esports",
+        "Tennis",
+        "Football"
+      ],
+      "gender": "Male",
+      "remark": "asd",
+      "id": 23
+    },
+    {
+      "name": "asd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/06",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Swimming"
+      ],
+      "gender": "Fe-Male",
+      "remark": "asdasdasdasd",
+      "id": 24
+    },
+    {
+      "name": "asd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/06",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Swimming"
+      ],
+      "gender": "Fe-Male",
+      "remark": "",
+      "id": 25
+    },
+    {
+      "name": "asd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/06",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": false,
+      "preferences": [
+        "Swimming"
+      ],
+      "gender": "Fe-Male",
+      "remark": "",
+      "id": 26
+    },
+    {
+      "name": "testssss",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/04",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Esports"
+      ],
+      "gender": "Fe-Male",
+      "remark": "",
+      "id": 27
+    },
+    {
+      "name": "lequangdong",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/11",
+      "branch": "Sun Asterisk Da Nang",
+      "active": true,
+      "preferences": [
+        "Esports",
+        "Drink Beer"
+      ],
+      "gender": "Male",
+      "remark": "",
+      "id": 28
+    },
+    {
+      "name": "vvccss",
+      "company": "Sun Asterisk",
+      "startDate": "2021/07/30",
+      "branch": "Sun Asterisk Da Nang",
+      "active": true,
+      "preferences": [
+        "Tennis",
+        "Volleyball",
+        "Swimming"
+      ],
+      "gender": "Male",
+      "remark": "asasad",
+      "id": 29
+    },
+    {
+      "name": "zxccxcxz",
+      "company": "Sun Asterisk",
+      "startDate": "2021/07/27",
+      "branch": "Sun Asterisk Ho Chi Minh",
+      "active": true,
+      "preferences": [
+        "Volleyball",
+        "Esports"
+      ],
+      "gender": "Fe-Male",
+      "remark": "",
+      "id": 30
+    },
+    {
+      "name": "vkikiki",
+      "company": "Sun Asterisk",
+      "startDate": "2021/09/04",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Swimming",
+        "Volleyball",
+        "Drink Beer"
+      ],
+      "gender": "Male",
+      "remark": "",
+      "id": 31
+    },
+    {
+      "name": "ghjghj",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/06",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Volleyball",
+        "Swimming"
+      ],
+      "gender": "Male",
+      "remark": "",
+      "id": 32
+    },
+    {
+      "name": "cvvbvbb",
+      "company": "Sun Asterisk",
+      "startDate": "2021/09/04",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": false,
+      "preferences": [
+        "Esports"
+      ],
+      "gender": "Fe-Male",
+      "remark": "",
+      "id": 33
+    },
+    {
+      "name": "asd",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/05",
+      "branch": "Sun Asterisk Da Nang",
+      "active": true,
+      "preferences": [
+        "Esports"
+      ],
+      "gender": "Fe-Male",
+      "remark": "asdasd",
+      "id": 34
+    },
+    {
+      "name": "asdasdsa",
+      "company": "Sun Asterisk",
+      "startDate": "2021/08/27",
+      "branch": "Sun Asterisk Ha Noi",
+      "active": true,
+      "preferences": [
+        "Volleyball",
+        "Football",
+        "Tennis",
+        "Esports",
+        "Drink Beer",
+        "Ping pong",
+        "Swimming"
+      ],
+      "gender": "Male",
+      "remark": "dong",
+      "id": 35
+    }
+  ]
+}
