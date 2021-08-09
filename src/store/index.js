@@ -39,19 +39,22 @@ export default new Vuex.Store({
     },
   },
   actions: {
-    async getAllEmployees({ commit }, payload) {
+    async getAllEmployees({ commit, state }, payload) {
       try {
         const { page } = payload;
-        const res = await axios.get(`${API_URL}/employees?_page=${page || 1}`);
+        const res = await axios.get(
+          `${API_URL}/employees?_page=${page || state.page}`
+        );
         commit("setTotalCount", +res.headers["x-total-count"]);
-        commit("setPage", page || 1);
+        commit("setPage", page || state.page);
         commit("setEmployees", res.data);
       } catch (error) {
-        error;
+        console.log(error);
       }
     },
     async removeEmployee({ commit }, payload) {
       try {
+        await axios.delete(`${API_URL}/employees/${payload.id}`);
         commit("removeEmployee", payload.id);
       } catch (error) {
         error;

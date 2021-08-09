@@ -137,6 +137,7 @@ export default {
       )
         .then(() => {
           this.removeEmployee({ id: employee.id });
+          this.getAllEmployees({ page: this.getCurrentPage });
           this.$message({
             type: "success",
             message: "Delete completed",
