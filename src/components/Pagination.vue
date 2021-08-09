@@ -18,15 +18,12 @@
 import { mapGetters, mapActions, mapMutations } from "vuex";
 export default {
   computed: {
-    ...mapGetters(["getTotalCount", "getPage", "getSearchValue"]),
+    ...mapGetters(["getTotalCount", "getPage"]),
     employeeCount() {
       return this.getTotalCount;
     },
     getCurrentPage() {
       return this.getPage;
-    },
-    getSearchData() {
-      return this.getSearchValue;
     },
   },
   methods: {
@@ -34,7 +31,7 @@ export default {
     ...mapMutations(["setPage"]),
     handleChangePage(val) {
       this.setPage(val);
-      this.getAllEmployees({ page: val, search: this.getSearchData });
+      this.getAllEmployees({ page: val });
     },
   },
 };

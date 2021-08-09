@@ -10,7 +10,6 @@ export default new Vuex.Store({
     employees: [],
     page: 1,
     totalCount: null,
-    searchValue: "",
   },
   mutations: {
     setEmployees(state, payload) {
@@ -53,7 +52,6 @@ export default new Vuex.Store({
     },
     async removeEmployee({ commit }, payload) {
       try {
-        await axios.delete(`${API_URL}/employees/${payload.id}`);
         commit("removeEmployee", payload.id);
       } catch (error) {
         error;
