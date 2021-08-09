@@ -176,7 +176,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .el-table .warning-row {
   background: oldlace;
 }
