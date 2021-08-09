@@ -128,25 +128,6 @@
       "id": 32
     },
     {
-      "name": "asdasdsa",
-      "company": "Sun Asterisk",
-      "startDate": "2021/08/27",
-      "branch": "Sun Asterisk Ha Noi",
-      "active": true,
-      "preferences": [
-        "Volleyball",
-        "Football",
-        "Tennis",
-        "Esports",
-        "Drink Beer",
-        "Ping pong",
-        "Swimming"
-      ],
-      "gender": "Male",
-      "remark": "dong",
-      "id": 35
-    },
-    {
       "name": "9798",
       "company": "Sun Asterisk",
       "startDate": "2022/08/25",
@@ -160,20 +141,6 @@
       "gender": "Fe-Male",
       "remark": "486",
       "id": 36
-    },
-    {
-      "name": "68798",
-      "company": "Sun Asterisk",
-      "startDate": "2021/08/26",
-      "branch": "Sun Asterisk Da Nang",
-      "active": true,
-      "preferences": [
-        "Volleyball",
-        "Esports"
-      ],
-      "gender": "Male",
-      "remark": "4654",
-      "id": 37
     },
     {
       "name": "zxczxc",

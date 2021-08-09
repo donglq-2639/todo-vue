@@ -49,7 +49,7 @@ export default new Vuex.Store({
         commit("setPage", page || state.page);
         commit("setEmployees", res.data);
       } catch (error) {
-        console.log(error);
+        error;
       }
     },
     async removeEmployee({ commit }, payload) {
