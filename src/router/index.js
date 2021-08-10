@@ -3,6 +3,7 @@ import VueRouter from "vue-router";
 import Home from "@/views/Home.vue";
 
 Vue.use(VueRouter);
+const lazyLoad = (component) => () => import(`@/views/${component}.vue`);
 
 const routes = [
   {
@@ -13,7 +14,7 @@ const routes = [
   {
     path: "/create",
     name: "CreateEmployee",
-    component: () => import("@/views/CreateEmployee.vue"),
+    component: lazyLoad("CreateEmployee"),
   },
 ];
 

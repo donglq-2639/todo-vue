@@ -160,7 +160,7 @@
       "company": "Sun Asterisk",
       "startDate": "2021/09/16",
       "branch": "Sun Asterisk Ha Noi",
-      "active": true,
+      "active": false,
       "preferences": [
         "Swimming",
         "Drink Beer"
@@ -174,7 +174,7 @@
       "company": "Sun Asterisk",
       "startDate": "2021/08/26",
       "branch": "Sun Asterisk Ho Chi Minh",
-      "active": true,
+      "active": false,
       "preferences": [
         "Volleyball"
       ],
@@ -187,7 +187,7 @@
       "company": "Sun Asterisk",
       "startDate": "2021/10/14",
       "branch": "Sun Asterisk Ha Noi",
-      "active": true,
+      "active": false,
       "preferences": [
         "Drink Beer",
         "Volleyball",
